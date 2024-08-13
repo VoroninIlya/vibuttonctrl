@@ -1,5 +1,5 @@
 #include "unity_fixture.h"
-#include "vibootloadercore.h"
+#include "vibuttonctrl.h"
 
 static void runAllTests(void)
 {
